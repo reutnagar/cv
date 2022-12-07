@@ -1,0 +1,18 @@
+https://code.visualstudio.com/download
+Visual studio code
+
+JavaScript (ES6) code snippets
+Install on VS
+
+UTF-8 symbols
+https://unicode-table.com/en/sets/
+
+MDN Docs
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+
+Resume site:
+- main page: picture, description, education, work experience, skills
+- hobbies page: (images + links)
+- contact me page: email, linkedin...
+- all pages are linked  
